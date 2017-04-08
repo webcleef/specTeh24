@@ -1,0 +1,47 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-catalog-menu-icon {
+    width: 7px;
+    height: 11px;
+    background-position: -5px -5px;
+}
+
+.sprite-catalog-promo-icon {
+    width: 13px;
+    height: 19px;
+    background-position: -22px -5px;
+}
+
+.sprite-contact-mail-icon {
+    width: 23px;
+    height: 17px;
+    background-position: -45px -5px;
+}
+
+.sprite-contact-tel-icon {
+    width: 20px;
+    height: 20px;
+    background-position: -78px -5px;
+}
+
+.sprite-date-icon {
+    width: 19px;
+    height: 10px;
+    background-position: -108px -5px;
+}
+
+.sprite-download-pdf-icon {
+    width: 17px;
+    height: 18px;
+    background-position: -137px -5px;
+}
+
+.sprite-portfolio-more-icon {
+    width: 13px;
+    height: 19px;
+    background-position: -164px -5px;
+}
